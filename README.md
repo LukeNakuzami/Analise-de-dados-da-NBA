@@ -1,7 +1,7 @@
 # Projeto de Análise de Dados da NBA
 
 ## Introdução
-Bem-vindo ao repositório do projeto de análise de dados da NBA! A NBA, National Basketball Association, é a principal liga de basquete profissional dos Estados Unidos, composta por alguns dos melhores jogadores de basquete do mundo. Atualmente, a NBA é composta por 30 times, divididos em duas conferências: a Conferência Leste e a Conferência Oeste.
+Bem-vindo ao repositório do projeto de análise de dados da NBA! A NBA, National Basketball Association, é a principal liga de basquete profissional do mundo, composta pelos melhores jogadores de basquete do mundo. Atualmente, a NBA é composta por 30 times, divididos em duas conferências: a Conferência Leste e a Conferência Oeste.
 
 ## Objetivo
 O objetivo deste projeto é realizar uma análise exploratória dos dados disponíveis relacionados à NBA.
